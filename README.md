@@ -38,3 +38,7 @@ I created this project because standard LED strips mounted behind or above poste
 ## License
 
 MIT License
+
+---
+
+> GitHub [@adrirubio](https://github.com/adrirubio) &nbsp;&middot;&nbsp;
