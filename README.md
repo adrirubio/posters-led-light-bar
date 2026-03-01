@@ -11,7 +11,7 @@ A modular 3D-printed light bar designed to evenly illuminate wall posters using 
 
 | Part 3 | 66 cm Light Bar |
 |--------|-----------------|
-| ![Part 3](screenshots/part-3.png) | ![66 cm Light Bar](screenshots/0.66cm-light-bar.png) |
+| ![Part 3](screenshots/part-3.png) | ![66 cm Light Bar](screenshots/66cm-light-bar.png) |
 
 | 99 cm Light bar | Alignment Slots |
 |-----------------|------------------|
