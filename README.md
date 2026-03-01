@@ -1,6 +1,6 @@
 # Posters LED Light Bar
 
-**Full Design Process**: [Project Blueprint](https://blueprint.hackclub.com/projects/100091)
+**Full Design Process**: [Blueprint Project](https://blueprint.hackclub.com/projects/10091)
 
 A modular 3D-printed light bar designed to evenly illuminate wall posters using angled LED strips. Features multiple length options (66 cm and 99 cm), a sleek design, and efficient positioning for smooth, balanced light distribution. It’s easy to assemble and enhances your posters with clean, even lighting.
 ## CAD Screenshots
