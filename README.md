@@ -33,7 +33,9 @@ I created this project because standard LED strips mounted behind or above poste
 
 ## Light Bar in Action
 
-**Coming Soon**
+| View 1 | View 2 |
+|--------|--------|
+| ![View 1](screenshots/view-1.jpeg) | ![View 2](screenshots/view-2.jpeg) |
 
 ## License
 
