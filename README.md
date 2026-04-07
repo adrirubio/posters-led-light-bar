@@ -37,6 +37,12 @@ I created this project because standard LED strips mounted behind or above poste
 |--------|--------|
 | ![View 1](screenshots/view-1.png) | ![View 2](screenshots/view-2.png) |
 
+### Light Bar Demo
+[Click here to download the light bar demo video (MP4)](https://github.com/adrirubio/posters-led-light-bar/raw/main/demo/led-light-bar-demo.mp4)
+
+### YouTube Demo
+[Watch the demo on YouTube](https://youtu.be/ceZwwPQebH8)
+
 ## License
 
 MIT License
